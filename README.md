@@ -3,7 +3,6 @@
 <p align="left">
    
    <a href="https://www.linkedin.com/in/tatjana-pronina-21a436111/"><img alt="LinkedIn" src="https://img.shields.io/badge/-tatjanapronina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatjana-pronina-21a436111/"></a>
-   
    <a href="mailto:tatjaana.pronina@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-tatjaana.pronina@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tatjaana.pronina@gmail.com"></a>
 
 <h3 align="left">  </h3>
