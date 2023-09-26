@@ -1,7 +1,7 @@
 <h1 align="left"> Hey there, I'm Tatjana 👋 </h1>
 
 <p align="left">
-   <a href="www.linkedin.com/in/tatjana-pronina-21a436111"><img alt="LinkedIn" src=""https://img.shields.io/badge/-tatjanapronina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatjana-pronina-21a436111"></a>
+   <a href="www.linkedin.com/in/tatjana-pronina/"><img alt="LinkedIn" src=""https://img.shields.io/badge/-tatjanapronina-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatjana-pronina/"></a>
 
 <h3 align="left">  </h3>
 
