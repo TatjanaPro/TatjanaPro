@@ -11,8 +11,8 @@
 <img align="right" height="150" width="210" src="data.gif">
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on my PET project
+- 🌱 I’m currently learning Java and SpringBoot
 - 👯 I’m looking to collaborate on large projects
 - 😄 My hobbies are: manga, sewing, painting, running
 - ⚡ Fun fact: working on it
